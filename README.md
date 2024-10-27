@@ -14,9 +14,6 @@ The **`overview-of-recordings.csv`** file provides a summary of the audio files 
 ## Project Workflow
 
 ### 1. Preparing the Dataset
-- **File:** `inspect_sampling_rate.py`  
-  This script inspects the sampling rate of the audio files to see if they are varied or uniform.
-
 - **File:** `resampling_audio_files.py`  
   - Ensures that all audio files are **resampled to 16kHz**, as different audio files in the original dataset may have inconsistent sampling rates.  
   - This step guarantees uniformity in audio processing.
