@@ -62,7 +62,7 @@ Each manifest contains the audio file path, transcription, and metadata for each
 Medical-Speech-Transcription/
 │
 ├── create_manifests.py        # Script to create NeMo-compatible manifests
-├── inspect_csv.py             # Inspects and summarizes the dataset
+├── inspect_sampling_rate.py   # Inspects sampling rate of audio files
 ├── overview-of-recordings.csv # Overview of the dataset content
 ├── quartznet_model.nemo       # Trained QuartzNet model
 ├── requirements.txt           # Python dependencies for the project
