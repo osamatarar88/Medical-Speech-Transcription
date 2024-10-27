@@ -1,0 +1,666 @@
+{"audio_filepath": "recordings/test/1249120_31349958_55816195.wav", "text": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_43719934_82524191.wav", "text": "My muscles in my lower back are aching", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_40663048_86760636.wav", "text": "i feel that it's hard to breath for me specially after running or making any effort", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_39675900_64467464.wav", "text": "My knee hurts when I play squash", "duration": 1.621375}
+{"audio_filepath": "recordings/test/1249120_44027675_100349992.wav", "text": "i have a problem in seeing objects it is too difficult to see", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_43719934_22444850.wav", "text": "Feel like something is being jabbed into my joints", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_43719934_15555042.wav", "text": "I read a book for along time and when I finished reading I feel head ache", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_18985376_66234921.wav", "text": "I have tried to relief it but I can't", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_41336418_55313967.wav", "text": "I stopped sports because I get Injury from sports", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_40663048_16096306.wav", "text": "when i extend my leg there is pain in knee joint", "duration": 1.9626875}
+{"audio_filepath": "recordings/train/1249120_44246595_34981278.wav", "text": "i have a great pain in my thorax from heart injury", "duration": 3.622375}
+{"audio_filepath": "recordings/test/1249120_38548574_17290454.wav", "text": "I don't know why I'm constantly sad.", "duration": 1.536}
+{"audio_filepath": "recordings/test/1249120_38548574_33898870.wav", "text": "i feel pain in my neck", "duration": 1.792}
+{"audio_filepath": "recordings/validate/1249120_44259428_45992221.wav", "text": "i feel pain in my stomach", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_39675900_58459793.wav", "text": "My back is hurting so much.", "duration": 1.365375}
+{"audio_filepath": "recordings/test/1249120_43105396_65580508.wav", "text": "I have a pain internal", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_31349958_12784683.wav", "text": "My face break out badly every month around my cycle.", "duration": 1.7066875}
+{"audio_filepath": "recordings/test/1249120_42210938_96860829.wav", "text": "I think my wound is infected", "duration": 2.304}
+{"audio_filepath": "recordings/test/1249120_21665495_105629373.wav", "text": "I feel a pain in my back", "duration": 2.645375}
+{"audio_filepath": "recordings/test/1249120_35350617_51362174.wav", "text": "My kneecap feels like it is grating bone on bone when I walk.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_1853182_31648376.wav", "text": "Annoyance starts suddenly, often after an injury or exercise.", "duration": 4.2725}
+{"audio_filepath": "recordings/test/1249120_17632529_81992084.wav", "text": "My chest break out with red pimples and whiteheads.", "duration": 3.808125}
+{"audio_filepath": "recordings/test/1249120_18172663_68493319.wav", "text": "itch at front and center of scalp", "duration": 2.56}
+{"audio_filepath": "recordings/test/1249120_1853182_20242420.wav", "text": "I feel pain in the lower back", "duration": 0.9288125}
+{"audio_filepath": "recordings/test/1249120_21665495_75728926.wav", "text": "My knee is hurting so badly.", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_27392644_85731623.wav", "text": "I feel a great amount of pressure of my head.", "duration": 3.8186875}
+{"audio_filepath": "recordings/test/1249120_29289135_12684151.wav", "text": "my hand open wound got infected", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_29713479_11210516.wav", "text": "I feel sad like hurt or pain", "duration": 5.4799375}
+{"audio_filepath": "recordings/test/1249120_38548574_27777565.wav", "text": "There is this pain that radiates from my chest up to my left arm.", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_39740177_22075222.wav", "text": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!", "duration": 7.0826875}
+{"audio_filepath": "recordings/test/1249120_40184183_20916120.wav", "text": "My right shoulder clicks when I move my arm.", "duration": 5.8026875}
+{"audio_filepath": "recordings/test/1249120_40725179_67881086.wav", "text": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.", "duration": 8.2663125}
+{"audio_filepath": "recordings/test/1249120_41841195_25770419.wav", "text": "I have internal pain whenever I come down with a cold.", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_42210938_91112562.wav", "text": "I've tried reading books, but nothing can cheer me up.", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_43453425_100609046.wav", "text": "I have pain in my stomach", "duration": 1.877375}
+{"audio_filepath": "recordings/test/1249120_43577102_103503053.wav", "text": "My foot hurts and I can't turn it.  Maybe it's broken.", "duration": 4.551125}
+{"audio_filepath": "recordings/test/1249120_43995026_72350848.wav", "text": "I can't turn my neck to the left without feeling a stabbing pain", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_43995026_95434349.wav", "text": "My heart is beating fast and it scares me.", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_44023395_81582015.wav", "text": "My son has a lot of acne.", "duration": 2.133375}
+{"audio_filepath": "recordings/train/1249120_44160489_102120596.wav", "text": "Feels like there are pins and needles sticking in my joints", "duration": 7.5233125}
+{"audio_filepath": "recordings/validate/1249120_44263136_87409253.wav", "text": "Sterilizer for the eye", "duration": 2.8793125}
+{"audio_filepath": "recordings/validate/1249120_44273314_93618448.wav", "text": "i have a hard pain in my stomach", "duration": 2.816}
+{"audio_filepath": "recordings/validate/1249120_44323331_17693815.wav", "text": "i can't breath because of  Cough", "duration": 6.687375}
+{"audio_filepath": "recordings/validate/1249120_44323331_25847807.wav", "text": "My right shoulder clicks when I move my arm.", "duration": 6.78025}
+{"audio_filepath": "recordings/test/1249120_13842059_80785413.wav", "text": "I have a mental suffering", "duration": 2.133375}
+{"audio_filepath": "recordings/test/1249120_13842059_98611758.wav", "text": "I fell a stiffness in my elbows and shoulders", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_17632529_48151722.wav", "text": "I feel pain in my heart when I wake up", "duration": 4.179625}
+{"audio_filepath": "recordings/test/1249120_21665495_108390616.wav", "text": "I feel cold and chills even though my clothes are heavy", "duration": 4.2666875}
+{"audio_filepath": "recordings/test/1249120_21665495_16983539.wav", "text": "I feel a sharp pain in my head when I think too hard.", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_21665495_92373375.wav", "text": "I feel pain inside I do not know what it is", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_22423108_46462049.wav", "text": "I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.", "duration": 8.8746875}
+{"audio_filepath": "recordings/test/1249120_29289135_86737513.wav", "text": "His infected wound was beginning to rot.", "duration": 4.352}
+{"audio_filepath": "recordings/test/1249120_29713479_88432403.wav", "text": "I feel like I can hardly breathe unless I get what's in my lungs out", "duration": 9.380875}
+{"audio_filepath": "recordings/test/1249120_30937687_23676583.wav", "text": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.", "duration": 11.61}
+{"audio_filepath": "recordings/test/1249120_30937687_85297385.wav", "text": "I always feel like I have menstrual pains even if I don't have my period.", "duration": 8.545}
+{"audio_filepath": "recordings/test/1249120_33251186_35107306.wav", "text": "I feel great pressure in my chest", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_33251186_35999174.wav", "text": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.", "duration": 10.6666875}
+{"audio_filepath": "recordings/test/1249120_33905644_62744437.wav", "text": "When i'm driving my eyes see in double", "duration": 5.12}
+{"audio_filepath": "recordings/test/1249120_35197064_16197616.wav", "text": "I have front head pain and when I get it the light bothers me.", "duration": 5.888}
+{"audio_filepath": "recordings/test/1249120_35197064_81266197.wav", "text": "I'm having a hard time hearing.", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_35444693_10281343.wav", "text": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.", "duration": 9.472}
+{"audio_filepath": "recordings/test/1249120_35444693_18239204.wav", "text": "In highschool I had a lot of acne.", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_35444693_44077563.wav", "text": "I feel aching on my insides.", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_35448024_67086226.wav", "text": "i feel sad", "duration": 2.9721875}
+{"audio_filepath": "recordings/test/1249120_36929821_107903314.wav", "text": "I have a cut that has become red and oozes puss.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_36929821_13462031.wav", "text": "My grandmother last year went to hospital because she was having a hard time breathing", "duration": 6.0586875}
+{"audio_filepath": "recordings/test/1249120_36929821_60221169.wav", "text": "I was diagnosed with  B12-deficiency anemia, which explains why I always felt cold.", "duration": 7.168}
+{"audio_filepath": "recordings/test/1249120_38202325_33582422.wav", "text": "i have issue with my skin", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_38548574_18945661.wav", "text": "My stomach feels starts hurting but then it feels better after I eat something mild.", "duration": 9.045375}
+{"audio_filepath": "recordings/test/1249120_39438102_79033226.wav", "text": "i feel dizzy after severe diarrhea", "duration": 4.437375}
+{"audio_filepath": "recordings/test/1249120_39438102_86550122.wav", "text": "I don't have problems taking in breath but out breath is so heavy", "duration": 6.741375}
+{"audio_filepath": "recordings/test/1249120_39438102_93264653.wav", "text": "I had a collision while playing soccer.  My knee buckled and now it's unstable.", "duration": 6.4}
+{"audio_filepath": "recordings/test/1249120_39675900_70905032.wav", "text": "When I tried to be warm and wear more clothes I found that I was still cold", "duration": 3.072}
+{"audio_filepath": "recordings/test/1249120_40184183_58344202.wav", "text": "I have some terrible problems when i'm breathing during the night.", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_40184183_67735002.wav", "text": "i can hardly breathe", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_40184183_68248494.wav", "text": "When I eat sugar I notice my vision blurs.", "duration": 4.2666875}
+{"audio_filepath": "recordings/test/1249120_40401830_18578535.wav", "text": "My shoulder has agreat pain", "duration": 1.877375}
+{"audio_filepath": "recordings/test/1249120_40571337_34139299.wav", "text": "I have a pain in my stomach", "duration": 3.072}
+{"audio_filepath": "recordings/test/1249120_40725179_107162666.wav", "text": "I have a dry skin", "duration": 2.6006875}
+{"audio_filepath": "recordings/test/1249120_40725179_16130188.wav", "text": "My television and computer seem out of focus even though I have new glasses.", "duration": 6.40875}
+{"audio_filepath": "recordings/test/1249120_40725179_91828193.wav", "text": "I have a cut that has become red and oozes puss.", "duration": 5.7585625}
+{"audio_filepath": "recordings/test/1249120_41087148_22068383.wav", "text": "when i wake up in the morning i feel dizzy", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_41087148_23703604.wav", "text": "My foot is hurting so much.", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_41087148_59744607.wav", "text": "I have a rash on my skin", "duration": 4.437375}
+{"audio_filepath": "recordings/test/1249120_41087148_75471240.wav", "text": "I have a pain in my muscle", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_41087148_86242250.wav", "text": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.", "duration": 14.165375}
+{"audio_filepath": "recordings/test/1249120_41150153_19646058.wav", "text": "When i'm awake in the morning I feel strange and have vertigo", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_41150153_93906622.wav", "text": "My stomach feels full and upset  and bloating after big meals.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_41203338_45999087.wav", "text": "My shoulder has agreat pain", "duration": 3.2508125}
+{"audio_filepath": "recordings/test/1249120_41203338_73002436.wav", "text": "When I was young I had an injury from sports in my knee.", "duration": 6.40875}
+{"audio_filepath": "recordings/test/1249120_41203338_89271160.wav", "text": "I have a dry throat", "duration": 3.3436875}
+{"audio_filepath": "recordings/test/1249120_41221824_55062091.wav", "text": "I have a foot ache although I don't walk a lot.", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_41336418_24770421.wav", "text": "I am worried how cold intolerant I am, I am always shivering, even out in the sun.", "duration": 4.7786875}
+{"audio_filepath": "recordings/test/1249120_41841195_77173377.wav", "text": "I have pimples on my back.", "duration": 2.048}
+{"audio_filepath": "recordings/test/1249120_42210938_104510218.wav", "text": "I feel like something is squeezing my lungs.", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_42210938_109594891.wav", "text": "laceration, rupture or opening in the skin", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_42557795_37473436.wav", "text": "I have a powerful pain inside my neck", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_42557795_50008473.wav", "text": "There is pain in my joints. I can not bear pain", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_42557795_81261233.wav", "text": "My body feels weak after my first day in the gym, why?", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_42783052_79304073.wav", "text": "I have tried to relief it but I can't", "duration": 6.485375}
+{"audio_filepath": "recordings/test/1249120_43172391_96040255.wav", "text": "I've noticed my hair falling out a lot lately.", "duration": 6.0586875}
+{"audio_filepath": "recordings/test/1249120_43453425_22466799.wav", "text": "I must see a doctor i have an open wound", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_43453425_23489981.wav", "text": "The pain in my back dwwls like a sharp knife in it", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_43453425_25562739.wav", "text": "There is a sharp pain in my calve.", "duration": 2.56}
+{"audio_filepath": "recordings/test/1249120_43453425_42575437.wav", "text": "i was injured during football match, i was diagnosed with Cruciate ligament", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_43453425_82058133.wav", "text": "My joints ache whenever it is cold", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_43453425_92026315.wav", "text": "When I walk it's hard to breath.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_43665783_63152777.wav", "text": "I think there's something wrong with my wound, it does not seem to heal like it should.", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_43665783_86075834.wav", "text": "I feel like there is something swollen and inflamed at the back of my knee.", "duration": 5.888}
+{"audio_filepath": "recordings/test/1249120_43698316_56837634.wav", "text": "When I stand up too quick my vision is blurry.", "duration": 4.693375}
+{"audio_filepath": "recordings/test/1249120_43788827_105541974.wav", "text": "i can hardly breathe", "duration": 2.229125}
+{"audio_filepath": "recordings/test/1249120_43788827_23558969.wav", "text": "I cannot bear this squeezing sensation I have in my chest.", "duration": 6.223}
+{"audio_filepath": "recordings/test/1249120_43788827_63089314.wav", "text": "I have dark spots on my skin", "duration": 3.5294375}
+{"audio_filepath": "recordings/test/1249120_43794413_19014819.wav", "text": "i feel sad", "duration": 2.6935625}
+{"audio_filepath": "recordings/test/1249120_43855932_48564245.wav", "text": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.", "duration": 6.912}
+{"audio_filepath": "recordings/test/1249120_43855932_72273141.wav", "text": "i have severe dry cough", "duration": 2.4746875}
+{"audio_filepath": "recordings/test/1249120_43883861_41698260.wav", "text": "When I brush my hair I notice big clumps of hair coming out in the brush.", "duration": 6.5706875}
+{"audio_filepath": "recordings/test/1249120_43951421_16264830.wav", "text": "My foot hurts me a lot of playing football", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_43951421_65977380.wav", "text": "my heart hurts me", "duration": 2.56}
+{"audio_filepath": "recordings/test/1249120_43995026_87738245.wav", "text": "There is a tingling sensation in my neck.", "duration": 2.7306875}
+{"audio_filepath": "recordings/test/1249120_43995026_88493873.wav", "text": "There is pain in my joints. I can not bear pain", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_44023395_11319081.wav", "text": "I am worried how cold intolerant I am, I am always shivering, even out in the sun.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_44023395_38223771.wav", "text": "My skin color on my back is red, I don't know why.", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_44027675_81276027.wav", "text": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_44088493_31134053.wav", "text": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.", "duration": 6.485375}
+{"audio_filepath": "recordings/test/1249120_44101988_108100269.wav", "text": "A terrible fall in hair", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_44101988_26958161.wav", "text": "I must see a doctor i have an open wound", "duration": 4.693375}
+{"audio_filepath": "recordings/test/1249120_44101988_85145945.wav", "text": "I have an indigestion", "duration": 4.437375}
+{"audio_filepath": "recordings/train/1249120_44160489_10247966.wav", "text": "I have general discomfort in my torso.", "duration": 7.3375625}
+{"audio_filepath": "recordings/train/1249120_44160489_107692984.wav", "text": "My cough is very heavy and I have mucus.", "duration": 6.5945}
+{"audio_filepath": "recordings/train/1249120_44197979_13841335.wav", "text": "When I play sports  I have some burning sensation in my spine", "duration": 4.608}
+{"audio_filepath": "recordings/train/1249120_44197979_20569127.wav", "text": "I can't hear out of my ear properly, I feel like there is something in it causing irritation.", "duration": 6.8266875}
+{"audio_filepath": "recordings/train/1249120_44197979_28613717.wav", "text": "I have shooting pains up and down my back.", "duration": 2.7306875}
+{"audio_filepath": "recordings/validate/1249120_44259428_86445054.wav", "text": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.", "duration": 11.264}
+{"audio_filepath": "recordings/validate/1249120_44273314_16049788.wav", "text": "My chest hurts when I go to take a breath", "duration": 3.7546875}
+{"audio_filepath": "recordings/validate/1249120_44294866_67568437.wav", "text": "my hair isn't well", "duration": 2.8793125}
+{"audio_filepath": "recordings/validate/1249120_44294866_89734541.wav", "text": "My entire body is freezing.", "duration": 3.5294375}
+{"audio_filepath": "recordings/validate/1249120_44323331_84030889.wav", "text": "I feel great pain in the head", "duration": 4.179625}
+{"audio_filepath": "recordings/test/1249120_14353703_100698095.wav", "text": "When I stand up too quickly I start to feel dizzy and light-headed", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_15004831_35646374.wav", "text": "I think my body temperature is very low.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_15004831_42760211.wav", "text": "I have a pain in my joint", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_15004831_60887727.wav", "text": "I was kicked in the head playing soccer last night.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_15965551_98145234.wav", "text": "My neck is annoying me I can't sleep bacause of it", "duration": 3.605375}
+{"audio_filepath": "recordings/test/1249120_20518958_19502200.wav", "text": "I have a lot of mucus when I cough.", "duration": 3.622375}
+{"audio_filepath": "recordings/test/1249120_20518958_28975888.wav", "text": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.", "duration": 9.380875}
+{"audio_filepath": "recordings/test/1249120_21665495_100639321.wav", "text": "I cough a lot when I smell perfume, what is wrong with my lungs?", "duration": 4.608}
+{"audio_filepath": "recordings/test/1249120_22423108_11537446.wav", "text": "I have an open wound in my arm", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_27392644_102861636.wav", "text": "my back hurts me a lot", "duration": 1.6}
+{"audio_filepath": "recordings/test/1249120_29672643_93182875.wav", "text": "My body aches on the inside between my hips and shoulders.", "duration": 7.5233125}
+{"audio_filepath": "recordings/test/1249120_30937687_13139749.wav", "text": "After an hard working day I have foot ache", "duration": 4.736875}
+{"audio_filepath": "recordings/test/1249120_33251186_10860276.wav", "text": "Had I stepped on a needle it wouldn't have hurt so much, like this damned spur in my heel.", "duration": 7.936}
+{"audio_filepath": "recordings/test/1249120_33251186_85387525.wav", "text": "My infected wound caused a fever", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_33251186_86514950.wav", "text": "It feels like someone stuck a knife into my shoulder", "duration": 6.912}
+{"audio_filepath": "recordings/test/1249120_33251186_99286295.wav", "text": "I have a headache every time I eat ice cream", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_35444693_64114695.wav", "text": "i can't walk, my knee hurts me", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_36214391_77781057.wav", "text": "I have internal pain whenever I come down with a cold.", "duration": 6.8266875}
+{"audio_filepath": "recordings/test/1249120_36214391_97819824.wav", "text": "I had a cold the last time I travelled by plane and I still have a discomfort in my ears.", "duration": 8.192}
+{"audio_filepath": "recordings/test/1249120_39142299_106407425.wav", "text": "There is a tingling sensation in my neck.", "duration": 5.0155625}
+{"audio_filepath": "recordings/test/1249120_39438102_30685949.wav", "text": "I get clusters of whiteheads and blackheads on my back.", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_39438102_66911427.wav", "text": "I feel shoulder pain at intervals of time.", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_39675900_70927634.wav", "text": "I have a sharp pain and clicking sound in my ankle joint when I try to stand on it and walk.", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_40017708_57179505.wav", "text": "I have pain in my stomach", "duration": 3.1579375}
+{"audio_filepath": "recordings/test/1249120_40184183_68586131.wav", "text": "All of a sudden I felt dizzy when I stood up.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_40184183_81879872.wav", "text": "My sore isn't healing well and it's been like this for two weeks.", "duration": 6.741375}
+{"audio_filepath": "recordings/test/1249120_40184183_83681126.wav", "text": "My head hurts in the back and the pain lasts all day.", "duration": 5.0346875}
+{"audio_filepath": "recordings/test/1249120_40401830_60593580.wav", "text": "I feel joint pain every time I move", "duration": 2.56}
+{"audio_filepath": "recordings/test/1249120_40571337_100108399.wav", "text": "I felt my heart hurts when I ran for along distance", "duration": 5.0346875}
+{"audio_filepath": "recordings/test/1249120_41087148_41229173.wav", "text": "I feel aching on my insides.", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_41087148_78155166.wav", "text": "my child has cough all night, she can't sleep", "duration": 4.352}
+{"audio_filepath": "recordings/test/1249120_41150153_101356740.wav", "text": "I think I sprained my ankle it really hurts.", "duration": 2.645375}
+{"audio_filepath": "recordings/test/1249120_41150153_94285511.wav", "text": "I have pain in my chest that saddens me.", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_41221824_95724337.wav", "text": "i am having problems seeing things feel like a cloud on my eyes everything is blurry", "duration": 5.717375}
+{"audio_filepath": "recordings/test/1249120_41221824_97265260.wav", "text": "I had a cold the last time I travelled by plane and I still have a discomfort in my ears.", "duration": 5.973375}
+{"audio_filepath": "recordings/test/1249120_42210938_101681468.wav", "text": "I notice a lot more hair coming out than usual when I brush my hair", "duration": 5.205375}
+{"audio_filepath": "recordings/test/1249120_42210938_27476164.wav", "text": "Sometimes my body feels week without reason", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_42210938_48692796.wav", "text": "Everything looks like beeing in a smoky area.", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_42210938_51111620.wav", "text": "I feel pain in the knee when walking", "duration": 2.4746875}
+{"audio_filepath": "recordings/test/1249120_42210938_60475052.wav", "text": "I had internal pain and gases when I ate indian spicy food yesterday", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_42557795_23485297.wav", "text": "I feel a great amount of pressure of my head.", "duration": 4.352}
+{"audio_filepath": "recordings/test/1249120_42557795_62654784.wav", "text": "When i'm awake in the morning I feel strange and have vertigo", "duration": 5.717375}
+{"audio_filepath": "recordings/test/1249120_43105396_13900087.wav", "text": "I feel a pain in my back when I sit on a chair for long.", "duration": 4.864}
+{"audio_filepath": "recordings/test/1249120_43105396_26624858.wav", "text": "I have a cold and it makes me cough alot", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_43172391_81744866.wav", "text": "I feel like the world goes round and round", "duration": 4.693375}
+{"audio_filepath": "recordings/test/1249120_43172391_98415617.wav", "text": "I toppled over while jumping to catch the ball.", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_43350908_32430898.wav", "text": "standing less than five minutes and my back start to ache", "duration": 4.437375}
+{"audio_filepath": "recordings/test/1249120_43453425_102315187.wav", "text": "i have a great pain in my foot like thrombing pain with relaxing my pain releif", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_43453425_108522923.wav", "text": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.", "duration": 9.301375}
+{"audio_filepath": "recordings/test/1249120_43577102_63432950.wav", "text": "Need to scratch my skin every minute", "duration": 3.901}
+{"audio_filepath": "recordings/test/1249120_43604449_109595660.wav", "text": "I am worried for my driving, because I can barely focus when I am at the wheel, my eyes feel teary.", "duration": 8.6186875}
+{"audio_filepath": "recordings/test/1249120_43604449_24187574.wav", "text": "my head hurts me badly", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_43604449_36628892.wav", "text": "My son has a lot of acne.", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_43604449_60060797.wav", "text": "I feel a great amount of pressure on the sides of my neck", "duration": 4.608}
+{"audio_filepath": "recordings/test/1249120_43604449_68313863.wav", "text": "I can't work good I have a pain in my knee", "duration": 4.437375}
+{"audio_filepath": "recordings/test/1249120_43604449_98784902.wav", "text": "At first it feels really numb, but then a thousand needles start to prick through my foot.", "duration": 8.277375}
+{"audio_filepath": "recordings/test/1249120_43612961_103278167.wav", "text": "When I stand up too quickly I feel as though I'm going to faint.", "duration": 4.644}
+{"audio_filepath": "recordings/test/1249120_43612961_50544296.wav", "text": "I made lots and lots of analysis to know the main reason for my stomach ache", "duration": 6.130125}
+{"audio_filepath": "recordings/test/1249120_43665783_21488232.wav", "text": "I feel so sore in my stomach area.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_43665783_33287276.wav", "text": "my cbc report indicate 10 hb, i feel tired of little work.", "duration": 10.752}
+{"audio_filepath": "recordings/test/1249120_43698316_61998620.wav", "text": "What's the symptoms of appendicitis?", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_43758322_89835616.wav", "text": "when i extend my leg there is pain in knee joint", "duration": 5.717375}
+{"audio_filepath": "recordings/test/1249120_43788827_49879973.wav", "text": "I've noticed my hair falling out a lot lately.", "duration": 5.0155625}
+{"audio_filepath": "recordings/test/1249120_43788827_75633884.wav", "text": "I feel pain in my ears with tinnitus", "duration": 4.644}
+{"audio_filepath": "recordings/test/1249120_43794413_105475928.wav", "text": "my child has cough all night, she can't sleep", "duration": 5.8514375}
+{"audio_filepath": "recordings/test/1249120_43794413_25328871.wav", "text": "My body feels like it's in a refrigerator.", "duration": 5.9443125}
+{"audio_filepath": "recordings/test/1249120_43855932_109751424.wav", "text": "I feel a pain in my back", "duration": 2.2186875}
+{"audio_filepath": "recordings/test/1249120_43855932_52011028.wav", "text": "I feel like l fell in hot water", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_43856216_94400559.wav", "text": "I have the impression of having no strength in my body", "duration": 5.376}
+{"audio_filepath": "recordings/test/1249120_43918153_61189952.wav", "text": "Chronic disease of hair follicles and sebaceous glands", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_43995026_20580512.wav", "text": "When I wake up in the morning I feel a soreness in my body", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_44027675_98634024.wav", "text": "i hit the ground when trying to shoot a basketball", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_44088493_56870761.wav", "text": "my hand open wound got infected", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_44101988_61767686.wav", "text": "I stopped sports because I get Injury from sports", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_44101988_91618639.wav", "text": "red flushes accompanied with itchy", "duration": 3.7546875}
+{"audio_filepath": "recordings/train/1249120_44142156_104815781.wav", "text": "What's the symptoms of appendicitis?", "duration": 6.4}
+{"audio_filepath": "recordings/train/1249120_44160489_102714693.wav", "text": "I have dark spots on my skin", "duration": 4.644}
+{"audio_filepath": "recordings/train/1249120_44160489_16357195.wav", "text": "I feel pain in my joint after an injury in the last football match I played.", "duration": 5.0155625}
+{"audio_filepath": "recordings/train/1249120_44176037_103421573.wav", "text": "i have injured myself during the soccer match", "duration": 4.864}
+{"audio_filepath": "recordings/train/1249120_44197979_75966548.wav", "text": "When I'm tired I feel my head heavy", "duration": 2.304}
+{"audio_filepath": "recordings/train/1249120_44235678_13910368.wav", "text": "My hair is coming out in chunks, especially when I wash it", "duration": 8.277375}
+{"audio_filepath": "recordings/train/1249120_44235678_90339410.wav", "text": "My sore looks like its not healing well.", "duration": 5.632}
+{"audio_filepath": "recordings/validate/1249120_44259428_58709056.wav", "text": "When I do hard exercises I feel great pain in my muscles.", "duration": 6.501625}
+{"audio_filepath": "recordings/validate/1249120_44259428_88280001.wav", "text": "My kneecap feels like it is grating bone on bone when I walk.", "duration": 8.192}
+{"audio_filepath": "recordings/validate/1249120_44263136_42090113.wav", "text": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.", "duration": 10.1239375}
+{"audio_filepath": "recordings/validate/1249120_44273314_102521547.wav", "text": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.", "duration": 7.168}
+{"audio_filepath": "recordings/validate/1249120_44294866_61858983.wav", "text": "I got injured exercising", "duration": 2.8793125}
+{"audio_filepath": "recordings/validate/1249120_44323331_63258394.wav", "text": "I have dark spots on my skin", "duration": 3.993875}
+{"audio_filepath": "recordings/validate/1249120_44323331_81285987.wav", "text": "I feel strong pain in my knee after it was hit during the football match.", "duration": 8.9165}
+{"audio_filepath": "recordings/test/1249120_13842059_105045085.wav", "text": "The pain feels like it's right below the skin", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_13842059_42977059.wav", "text": "I feel like I went to an acupuncture's practice and had 100 needles in my shoulder", "duration": 6.997375}
+{"audio_filepath": "recordings/test/1249120_13842059_46594173.wav", "text": "My neck hurts me and i can't stand with this pain", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_13842059_55538328.wav", "text": "I have a break in the skin between my thumb and index finger and it will not close.", "duration": 4.864}
+{"audio_filepath": "recordings/test/1249120_13842059_73296559.wav", "text": "when i get up, i feel dizzy and fall down.", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_13842059_94785546.wav", "text": "There are some pimples on my face that bother me a lot", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_21665495_48190230.wav", "text": "I have a blurry vision after my head was hit yesterday.", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_21665495_55343670.wav", "text": "Hearing any loud sounds makes my ear aches", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_29289135_98888073.wav", "text": "I do not feel better in my muscles", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_29672643_76528339.wav", "text": "i have severe dry cough", "duration": 4.551125}
+{"audio_filepath": "recordings/test/1249120_30766630_67686928.wav", "text": "My knee hurts when I play squash", "duration": 3.4365625}
+{"audio_filepath": "recordings/test/1249120_33905644_81476220.wav", "text": "I have constant stomach pain and bloating.", "duration": 5.205375}
+{"audio_filepath": "recordings/test/1249120_35444693_31520642.wav", "text": "My ankle joint throbs when I put pressure on my foot.", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_36214391_56079501.wav", "text": "I had a collision while playing soccer.  My knee buckled and now it's unstable.", "duration": 7.68}
+{"audio_filepath": "recordings/test/1249120_36214391_78281851.wav", "text": "I feel shoulder pain at intervals of time.", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_36929821_24419265.wav", "text": "There is this pain that radiates from my chest up to my left arm.", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_36929821_95056322.wav", "text": "I have a foot ache although I don't walk a lot.", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_38042052_60916686.wav", "text": "Had I stepped on a needle it wouldn't have hurt so much, like this damned spur in my heel.", "duration": 7.8506875}
+{"audio_filepath": "recordings/test/1249120_38042052_63129926.wav", "text": "i have muscle pain at my left leg.", "duration": 4.7786875}
+{"audio_filepath": "recordings/test/1249120_38202325_23412557.wav", "text": "There are some pimples on my face that bother me a lot", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_38202325_74764630.wav", "text": "There is pain in the muscles I do not know caused", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_38548574_89632552.wav", "text": "I feel shoulder pain at intervals of time.", "duration": 2.133375}
+{"audio_filepath": "recordings/test/1249120_39154234_71620378.wav", "text": "I'm having a hard time hearing.", "duration": 3.072}
+{"audio_filepath": "recordings/test/1249120_39438102_105063825.wav", "text": "My left ear is ok, but the right one feels like it's being stabbed with a nail.", "duration": 6.997375}
+{"audio_filepath": "recordings/test/1249120_39438102_13475995.wav", "text": "I was playing soccer and I twisted my ankle", "duration": 4.608}
+{"audio_filepath": "recordings/test/1249120_39438102_15270901.wav", "text": "When I move my shoulder, it's like lightning is being sent through my shoulder", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_39438102_26372253.wav", "text": "i feel pain in my body", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_39438102_39780431.wav", "text": "I feel a lot of pain in the joints.", "duration": 4.608}
+{"audio_filepath": "recordings/test/1249120_39740177_25655862.wav", "text": "I suffered a deep wound in my hand and I can not stop the bleeding", "duration": 5.205375}
+{"audio_filepath": "recordings/test/1249120_39740177_99155674.wav", "text": "I wake up at night feeling cold", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_40184183_30790490.wav", "text": "my back hurts me a lot", "duration": 2.133375}
+{"audio_filepath": "recordings/test/1249120_40184183_60266732.wav", "text": "Even though I'm an adult my face keeps breaking out in pimples.", "duration": 5.973375}
+{"audio_filepath": "recordings/test/1249120_40725179_49003804.wav", "text": "I was kicked in the head playing soccer last night.", "duration": 4.45825}
+{"audio_filepath": "recordings/test/1249120_40725179_57476499.wav", "text": "My foot hurts me a lot of playing football", "duration": 4.2725}
+{"audio_filepath": "recordings/test/1249120_41087148_105066937.wav", "text": "My foot had been aching since last Tuesday.", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_41087148_109315274.wav", "text": "I have found some issues in my skin and tried to use cream but it doesn't get better", "duration": 7.0826875}
+{"audio_filepath": "recordings/test/1249120_41203338_47469498.wav", "text": "i feel hurt, lot of pain in my heart", "duration": 5.4799375}
+{"audio_filepath": "recordings/test/1249120_41203338_75673462.wav", "text": "I have a ear ache when I go to the pool", "duration": 3.808125}
+{"audio_filepath": "recordings/test/1249120_41841195_32399778.wav", "text": "Hearing any loud sounds makes my ear aches", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_42210938_29051372.wav", "text": "I feel like the world goes round and round", "duration": 3.072}
+{"audio_filepath": "recordings/test/1249120_42210938_68900643.wav", "text": "I have general discomfort in my torso.", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_42557795_61812571.wav", "text": "When I eat too much sugar my body gets weak and dizzy.", "duration": 4.352}
+{"audio_filepath": "recordings/test/1249120_43172391_17479526.wav", "text": "i can hardly breathe", "duration": 4.864}
+{"audio_filepath": "recordings/test/1249120_43402738_53257467.wav", "text": "is my cut infected or just healing?", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_43577102_28130477.wav", "text": "my temperature dropped and my body get synosed", "duration": 4.551125}
+{"audio_filepath": "recordings/test/1249120_43665783_41704044.wav", "text": "I can't stand with this horrible feeling in my shoulder", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_43698316_88639037.wav", "text": "How do you know if you have a torn meniscus in your knee?", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_43788827_59129623.wav", "text": "When I go to sleep I am feeling cold", "duration": 4.179625}
+{"audio_filepath": "recordings/test/1249120_43855932_38629756.wav", "text": "I have a pain in my muscle", "duration": 2.389375}
+{"audio_filepath": "recordings/test/1249120_43856216_31896487.wav", "text": "I have pain in my chest that saddens me.", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_43857865_16365614.wav", "text": "I have a sharp pain in my ear", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_43883861_49443606.wav", "text": "Chronic bowel Pain", "duration": 1.877375}
+{"audio_filepath": "recordings/test/1249120_43898158_14939782.wav", "text": "My chest hurts when I go to take a breath", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_43951421_107989922.wav", "text": "I have acne all over my face", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_43951421_98122150.wav", "text": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.", "duration": 7.936}
+{"audio_filepath": "recordings/test/1249120_44027675_87464957.wav", "text": "I feel pain in my back", "duration": 1.536}
+{"audio_filepath": "recordings/test/1249120_44093933_69187927.wav", "text": "My head hurts in the back and the pain lasts all day.", "duration": 5.973375}
+{"audio_filepath": "recordings/test/1249120_44101988_13721843.wav", "text": "I feel pain in my throat", "duration": 3.157375}
+{"audio_filepath": "recordings/train/1249120_44176037_91490605.wav", "text": "The area around my heart doesn't feel good.", "duration": 4.5226875}
+{"audio_filepath": "recordings/validate/1249120_44263136_108585886.wav", "text": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.", "duration": 7.4304375}
+{"audio_filepath": "recordings/validate/1249120_44263136_10880734.wav", "text": "I had internal pain and gases when I ate indian spicy food yesterday", "duration": 7.15175}
+{"audio_filepath": "recordings/validate/1249120_44273314_45479897.wav", "text": "I feel hurts in my heart", "duration": 2.645375}
+{"audio_filepath": "recordings/test/1249120_6338946_79218256.wav", "text": "My head ache since I woke up this morning.", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_21665495_34485860.wav", "text": "I can't walk because i have a great foot ache", "duration": 4.2666875}
+{"audio_filepath": "recordings/test/1249120_29713479_64977964.wav", "text": "I've tried reading books, but nothing can cheer me up.", "duration": 4.551125}
+{"audio_filepath": "recordings/test/1249120_31349958_85507277.wav", "text": "I could not exercise because of my knee pain", "duration": 1.7066875}
+{"audio_filepath": "recordings/test/1249120_33251186_99807825.wav", "text": "There feels like a swollen knot at my shoulderblade with pain shooting from that", "duration": 6.656}
+{"audio_filepath": "recordings/test/1249120_39438102_23724595.wav", "text": "i cant sleep because of cough", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_40184183_105047280.wav", "text": "I feel a bone-on-bone pain in my knees when I climb stairs.", "duration": 6.485375}
+{"audio_filepath": "recordings/test/1249120_40184183_33749320.wav", "text": "At first it feels really numb, but then a thousand needles start to prick through my foot.", "duration": 11.1786875}
+{"audio_filepath": "recordings/test/1249120_42554554_49297323.wav", "text": "The knee feels like it rusted and I suddenly cannot bend it anymore.", "duration": 5.205375}
+{"audio_filepath": "recordings/test/1249120_43105396_87785249.wav", "text": "I have cloudy eyes", "duration": 2.304}
+{"audio_filepath": "recordings/test/1249120_44093933_17827715.wav", "text": "It feels like my heart is going to leap out of my body. It hurts.", "duration": 6.485375}
+{"audio_filepath": "recordings/test/1249120_36214391_11745892.wav", "text": "I don't know why I'm constantly sad.", "duration": 3.072}
+{"audio_filepath": "recordings/test/1249120_27392644_24485200.wav", "text": "my temperature dropped and my body get synosed", "duration": 3.6266875}
+{"audio_filepath": "recordings/test/1249120_29289135_45566986.wav", "text": "i can't see well", "duration": 4.2666875}
+{"audio_filepath": "recordings/test/1249120_34824899_82321207.wav", "text": "I got acne when I ate chili", "duration": 3.0650625}
+{"audio_filepath": "recordings/test/1249120_39740177_15689269.wav", "text": "my left side aches much", "duration": 2.304}
+{"audio_filepath": "recordings/test/1249120_40401830_12654689.wav", "text": "My hair is falling out after I take a shower.", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_41956733_69348437.wav", "text": "My heart feels like it's going to explode.", "duration": 6.4}
+{"audio_filepath": "recordings/test/1249120_42554554_40348648.wav", "text": "Is there a cure for acne?", "duration": 2.7306875}
+{"audio_filepath": "recordings/test/1249120_42783052_70449452.wav", "text": "My neck feels stiff", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_43612961_13180273.wav", "text": "There is pain in my joints. I can not bear pain", "duration": 3.993875}
+{"audio_filepath": "recordings/test/1249120_43612961_36894452.wav", "text": "I'm having a hard time hearing.", "duration": 3.2508125}
+{"audio_filepath": "recordings/test/1249120_43620482_97566863.wav", "text": "I have a break in the skin between my thumb and index finger and it will not close.", "duration": 5.376}
+{"audio_filepath": "recordings/test/1249120_43698316_44781503.wav", "text": "What helps cuts heal faster?", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_43788827_36608439.wav", "text": "My muscles feel tired", "duration": 3.4365625}
+{"audio_filepath": "recordings/test/1249120_43883861_108482930.wav", "text": "I feel suicidal.", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_44093933_15345897.wav", "text": "Since I went into the forest  I have pain on my ear", "duration": 4.608}
+{"audio_filepath": "recordings/train/1249120_44246595_36089089.wav", "text": "using hair tonic", "duration": 2.4149375}
+{"audio_filepath": "recordings/validate/1249120_44323331_54400222.wav", "text": "standing less than five minutes and my back start to ache", "duration": 7.4304375}
+{"audio_filepath": "recordings/validate/1249120_44323331_72563945.wav", "text": "I feel deep Tingling when I touch Acne followed by bad sensation", "duration": 9.6595625}
+{"audio_filepath": "recordings/test/1249120_15004831_109583467.wav", "text": "my heart hurts me", "duration": 2.389375}
+{"audio_filepath": "recordings/test/1249120_18172663_109717598.wav", "text": "I feel pain in my head with a vertigo", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_18172663_25677999.wav", "text": "It feels like someone stuck a knife into my shoulder", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_18386513_60053545.wav", "text": "I feel dizzy after doing a muscular effort.", "duration": 3.5294375}
+{"audio_filepath": "recordings/test/1249120_1853182_16774392.wav", "text": "I can't sleep I have a hard cough", "duration": 2.229125}
+{"audio_filepath": "recordings/test/1249120_1853182_33011030.wav", "text": "I feel like the room is spinning", "duration": 2.8793125}
+{"audio_filepath": "recordings/test/1249120_1853182_67762065.wav", "text": "I'm having a hard time reading because the letters are all fuzzy", "duration": 3.2508125}
+{"audio_filepath": "recordings/test/1249120_19425875_54714144.wav", "text": "When I move on my shoulder, pain shoots down my arm", "duration": 4.352}
+{"audio_filepath": "recordings/test/1249120_20518958_16546197.wav", "text": "It's hard to see things", "duration": 2.322}
+{"audio_filepath": "recordings/test/1249120_2171654_63059993.wav", "text": "When I stand up too quickly I start to feel dizzy and light-headed", "duration": 4.365375}
+{"audio_filepath": "recordings/test/1249120_22423108_108896174.wav", "text": "i feel weak", "duration": 2.7306875}
+{"audio_filepath": "recordings/test/1249120_22423108_90408851.wav", "text": "I lose a lot of my hair", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_28006404_10831028.wav", "text": "there is acne on my face", "duration": 2.322}
+{"audio_filepath": "recordings/test/1249120_28006404_33272274.wav", "text": "fell skull is cracked like nuts", "duration": 2.4149375}
+{"audio_filepath": "recordings/test/1249120_28006404_78371585.wav", "text": "I feel a sharp pain in my stomach", "duration": 3.0650625}
+{"audio_filepath": "recordings/test/1249120_29289135_32307050.wav", "text": "Laceration, rupture or opening in the skin", "duration": 4.7786875}
+{"audio_filepath": "recordings/test/1249120_29289135_44995012.wav", "text": "I feel like the room is spinning", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_29672643_42747972.wav", "text": "When I'm too high I start to feel dizzy", "duration": 7.6161875}
+{"audio_filepath": "recordings/test/1249120_30766630_40262898.wav", "text": "I cough a lot when I smell perfume, what is wrong with my lungs?", "duration": 5.1084375}
+{"audio_filepath": "recordings/test/1249120_30766630_51050536.wav", "text": "My neck hurts me and i can't stand with this pain", "duration": 3.993875}
+{"audio_filepath": "recordings/test/1249120_30766630_66484270.wav", "text": "I get tired too fast, I can barely put on my clothes in the morning.", "duration": 5.2013125}
+{"audio_filepath": "recordings/test/1249120_30937687_67016498.wav", "text": "I have a wound between my toes that gets better overnight and then reopens ever day when I wear dress shoes to work.", "duration": 10.3096875}
+{"audio_filepath": "recordings/test/1249120_33905644_107515866.wav", "text": "When i'm awake in the morning I feel strange and have vertigo", "duration": 6.5945}
+{"audio_filepath": "recordings/test/1249120_35154350_103202816.wav", "text": "When I move my shoulder, it's like lightning is being sent through my shoulder", "duration": 6.229375}
+{"audio_filepath": "recordings/test/1249120_35154350_55956374.wav", "text": "Sometimes I feel like a claw on my chest that leaves me breathless.", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_35154350_62723165.wav", "text": "Whenever I stand up I feel dizzy.", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_35154350_89439845.wav", "text": "I feel discomfort throughout the body in general", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_35170334_33580636.wav", "text": "My hair is falling out in huge amount", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_35350617_91642268.wav", "text": "I do not feel better in my muscles", "duration": 2.645375}
+{"audio_filepath": "recordings/test/1249120_35408915_93001874.wav", "text": "I'm having a hard time reading because the letters are all fuzzy", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_36929821_70018571.wav", "text": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.", "duration": 7.765375}
+{"audio_filepath": "recordings/test/1249120_38042052_72303268.wav", "text": "I'm not good i'm feeling so cold", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_39142299_82645093.wav", "text": "Is pimples a skin disease?", "duration": 3.5294375}
+{"audio_filepath": "recordings/test/1249120_39740177_45981933.wav", "text": "My knee hurts when I walk", "duration": 2.4746875}
+{"audio_filepath": "recordings/test/1249120_41336418_15490172.wav", "text": "When I stand up too quickly I start to feel dizzy and light-headed", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_41336418_59359534.wav", "text": "My wound opened up again", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_41841195_93992196.wav", "text": "When I tried to take care if my hair I found that it is falling out", "duration": 5.0346875}
+{"audio_filepath": "recordings/test/1249120_41956733_75725033.wav", "text": "My acne itches and oozes.", "duration": 7.509375}
+{"audio_filepath": "recordings/test/1249120_41956733_79161582.wav", "text": "It itches inside my ears.", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_42557795_20387329.wav", "text": "I've got a hard time to breath- am I having a heart attack?", "duration": 5.12}
+{"audio_filepath": "recordings/test/1249120_42783052_103618473.wav", "text": "I have a cut that has become red and oozes puss.", "duration": 8.704}
+{"audio_filepath": "recordings/test/1249120_43105396_55385390.wav", "text": "I lose a lot of my hair", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_43172391_33951280.wav", "text": "I think my wound is infected", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_43402738_57383248.wav", "text": "I have a head pain every single day.", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_43577102_41870754.wav", "text": "I made lots and lots of analysis to know the main reason for my stomach ache", "duration": 6.223}
+{"audio_filepath": "recordings/test/1249120_43577102_85210789.wav", "text": "It hurts when I raise my arm up", "duration": 4.08675}
+{"audio_filepath": "recordings/test/1249120_43620482_50309504.wav", "text": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.", "duration": 7.5946875}
+{"audio_filepath": "recordings/test/1249120_43620482_83629897.wav", "text": "I can't carry anything I have a pain in my shoulder", "duration": 4.352}
+{"audio_filepath": "recordings/test/1249120_43620482_93162857.wav", "text": "I feel like I went to an acupuncture's practice and had 100 needles in my shoulder", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_43665783_101335721.wav", "text": "I have pain in my colon and my stomach like something cutting it", "duration": 6.997375}
+{"audio_filepath": "recordings/test/1249120_43755034_36360238.wav", "text": "fell skull is cracked like nuts", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_43788827_79200909.wav", "text": "i have a problem in my back i cannot extend it", "duration": 4.365375}
+{"audio_filepath": "recordings/test/1249120_43898158_77462207.wav", "text": "I always feel like I have menstrual pains even if I don't have my period.", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_43918153_101085281.wav", "text": "I feel a sharp pain in my ankle joint when I stand.", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_43918153_58505623.wav", "text": "I'm suffering from sharp cough Accompanied by  phlegm", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_43918153_62130681.wav", "text": "i feel pain in my stomach", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_44093303_101144741.wav", "text": "i feel pain in my stomach", "duration": 4.2725}
+{"audio_filepath": "recordings/test/1249120_44093933_34777784.wav", "text": "I have constant stomach pain and bloating.", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_44140394_41980950.wav", "text": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.", "duration": 6.40875}
+{"audio_filepath": "recordings/train/1249120_44220382_68372240.wav", "text": "there is a red stain in my skin", "duration": 2.8793125}
+{"audio_filepath": "recordings/validate/1249120_44246595_85567147.wav", "text": "When i get up i see my skin vague", "duration": 3.71525}
+{"audio_filepath": "recordings/test/1249120_15830408_49631021.wav", "text": "I have a blurry vision and i can't see in the darkness , what is the reason doctor ?", "duration": 6.229375}
+{"audio_filepath": "recordings/test/1249120_18172663_49444750.wav", "text": "I feel joint pain every time I move", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_18172663_85283527.wav", "text": "I have a problem in the expiration because i have abronchial asthma", "duration": 5.376}
+{"audio_filepath": "recordings/test/1249120_18386513_54530444.wav", "text": "My back hurts so much I can't bend down to tie my shoelaces.", "duration": 4.644}
+{"audio_filepath": "recordings/test/1249120_18386513_62259179.wav", "text": "I complain alot with my neck pain and i really need to be better", "duration": 4.365375}
+{"audio_filepath": "recordings/test/1249120_1853182_21950254.wav", "text": "I have a foot ache in winter, or when it feels cold, why?", "duration": 4.551125}
+{"audio_filepath": "recordings/test/1249120_1853182_77811398.wav", "text": "i feel pain in my stomach", "duration": 2.322}
+{"audio_filepath": "recordings/test/1249120_18985376_39568241.wav", "text": "I feel a tightness in my chest", "duration": 2.4746875}
+{"audio_filepath": "recordings/test/1249120_18985376_42567209.wav", "text": "I fell a stiffness in my elbows and shoulders", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_19425875_20297828.wav", "text": "I feel weak all over.", "duration": 2.389375}
+{"audio_filepath": "recordings/test/1249120_19425875_37619269.wav", "text": "itch at front and center of scalp", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_19425875_97646089.wav", "text": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me", "duration": 7.8506875}
+{"audio_filepath": "recordings/test/1249120_20518958_75597733.wav", "text": "I can't stand with this horrible feeling in my shoulder", "duration": 4.9226875}
+{"audio_filepath": "recordings/test/1249120_20518958_85278533.wav", "text": "I feel a great amount of pressure of my head.", "duration": 3.993875}
+{"audio_filepath": "recordings/test/1249120_2171654_54633164.wav", "text": "I got acne when I ate chili", "duration": 3.0650625}
+{"audio_filepath": "recordings/test/1249120_22345789_27324558.wav", "text": "i have injured myself during the soccer match", "duration": 5.7585625}
+{"audio_filepath": "recordings/test/1249120_22345789_61447933.wav", "text": "I usually have a bad cough when I get flu.", "duration": 5.1084375}
+{"audio_filepath": "recordings/test/1249120_22345789_91658260.wav", "text": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.", "duration": 12.2601875}
+{"audio_filepath": "recordings/test/1249120_22423108_49763131.wav", "text": "I feel great pain in my feet after playing one of the sports games", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_27392644_15838768.wav", "text": "I feel pain in my joint after an injury in the last football match I played.", "duration": 4.48}
+{"audio_filepath": "recordings/test/1249120_27392644_60092505.wav", "text": "The wound is still open", "duration": 2.048}
+{"audio_filepath": "recordings/test/1249120_27392644_92472837.wav", "text": "It hurts when I bent my arm", "duration": 2.496}
+{"audio_filepath": "recordings/test/1249120_27392644_93850585.wav", "text": "A terrible fall in hair", "duration": 2.7946875}
+{"audio_filepath": "recordings/test/1249120_28006404_41904035.wav", "text": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.", "duration": 7.4304375}
+{"audio_filepath": "recordings/test/1249120_28006404_81319911.wav", "text": "When I lift my arms up I have a soreness in my shoulders", "duration": 3.5294375}
+{"audio_filepath": "recordings/test/1249120_28006404_96211306.wav", "text": "redness, swelling, and difficulty walking", "duration": 3.901}
+{"audio_filepath": "recordings/test/1249120_29289135_42191739.wav", "text": "glass broken and wound my leg badly the wound is so wide", "duration": 5.717375}
+{"audio_filepath": "recordings/test/1249120_29672643_26110194.wav", "text": "I have a blurry vision after my head was hit yesterday.", "duration": 7.8019375}
+{"audio_filepath": "recordings/test/1249120_29672643_29778280.wav", "text": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.", "duration": 9.009375}
+{"audio_filepath": "recordings/test/1249120_29672643_60157000.wav", "text": "after playing football, i have muscle pain with my both legs.", "duration": 5.5728125}
+{"audio_filepath": "recordings/test/1249120_30766630_39631055.wav", "text": "I feel pain in the knee", "duration": 2.4149375}
+{"audio_filepath": "recordings/test/1249120_30766630_70207633.wav", "text": "I have a blurry vision after my head was hit yesterday.", "duration": 4.2725}
+{"audio_filepath": "recordings/test/1249120_30937687_103531596.wav", "text": "I have a rash on my skin", "duration": 3.4365625}
+{"audio_filepath": "recordings/test/1249120_30937687_50836807.wav", "text": "my shoulder is hurting me", "duration": 3.622375}
+{"audio_filepath": "recordings/test/1249120_33905644_100836743.wav", "text": "I can't turn my neck to the left without feeling a stabbing pain", "duration": 7.68}
+{"audio_filepath": "recordings/test/1249120_33905644_50214080.wav", "text": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.", "duration": 12.373375}
+{"audio_filepath": "recordings/test/1249120_33905644_93612547.wav", "text": "I have a dull ache in my stomach.  It gets worse after I eat.", "duration": 6.3146875}
+{"audio_filepath": "recordings/test/1249120_33905644_94025878.wav", "text": "My skin is very dry and peeling.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_34824899_23826302.wav", "text": "The pain in my ear is unbearable.", "duration": 2.6935625}
+{"audio_filepath": "recordings/test/1249120_35154350_81663588.wav", "text": "I get clusters of pimples on my face that never go away.", "duration": 5.717375}
+{"audio_filepath": "recordings/test/1249120_35154350_82527226.wav", "text": "My foot hurts me a lot of playing football", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_35154350_98884005.wav", "text": "I feel a sharp pain in my ankle joint when I stand.", "duration": 5.0346875}
+{"audio_filepath": "recordings/test/1249120_35350617_57277241.wav", "text": "I feel cold although we are in summer.", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_35408915_48602240.wav", "text": "I feel dizzy after doing a muscular effort.", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_35832653_51461433.wav", "text": "Chronic bone disease at the level of the doubles of the lower Estremidades", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_36214391_26970620.wav", "text": "My neck hurts me and i can't stand with this pain", "duration": 5.0346875}
+{"audio_filepath": "recordings/test/1249120_36505751_15240257.wav", "text": "After playing tennis,  I had a powerful sensation close to my neck", "duration": 5.205375}
+{"audio_filepath": "recordings/test/1249120_36505751_87883658.wav", "text": "I get chills and aches all over.", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_38202325_102091187.wav", "text": "When I think of my parents I feel pain", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_38202325_37437935.wav", "text": "My shoulder hurts me so much", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_38202325_55954075.wav", "text": "My knee is hurting so badly.", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_38202325_80151210.wav", "text": "Surgical wound infections", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_38202325_98728549.wav", "text": "My head hurts whenever I try to do something.", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_39154234_100370032.wav", "text": "When i'm driving my eyes see in double", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_39154234_83493884.wav", "text": "When I eat too much sugar my body gets weak and dizzy.", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_39154234_94805738.wav", "text": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.", "duration": 7.168}
+{"audio_filepath": "recordings/test/1249120_39438102_60405187.wav", "text": "I feel cold although we are in summer.", "duration": 5.0346875}
+{"audio_filepath": "recordings/test/1249120_40401830_102062277.wav", "text": "I got acne when I ate chili", "duration": 2.2186875}
+{"audio_filepath": "recordings/test/1249120_40401830_105051475.wav", "text": "I feel muscle pain every time I make an extra effort.", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_40401830_107529720.wav", "text": "I feel like my heart is on fire.", "duration": 2.389375}
+{"audio_filepath": "recordings/test/1249120_40401830_23428632.wav", "text": "I love to walk and be outside but the bottoms of my feet get sore so quickly.", "duration": 5.8026875}
+{"audio_filepath": "recordings/test/1249120_40663048_14605591.wav", "text": "When I sneeze very hard I feel ear ache", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_41203338_22957681.wav", "text": "I can't move my head up and down.", "duration": 3.2508125}
+{"audio_filepath": "recordings/test/1249120_41336418_48846529.wav", "text": "I've tried reading books, but nothing can cheer me up.", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_41841195_29288285.wav", "text": "I used alot of pain killer to get better but i still feel the same back pain", "duration": 6.485375}
+{"audio_filepath": "recordings/test/1249120_42554554_20827076.wav", "text": "i have pain like needles in my joints.", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_42554554_78776609.wav", "text": "I get tired too fast, I can barely put on my clothes in the morning.", "duration": 5.717375}
+{"audio_filepath": "recordings/test/1249120_43172391_64014700.wav", "text": "I am worried how cold intolerant I am, I am always shivering, even out in the sun.", "duration": 9.045375}
+{"audio_filepath": "recordings/test/1249120_43316708_17090711.wav", "text": "Sterilizer for the eye", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_43350908_10732237.wav", "text": "I feel dizzy when i make sudden movements", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_43350908_88414533.wav", "text": "I feel so sore in my stomach area.", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_43402738_64311778.wav", "text": "Something dark is there on my arm", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_43402738_87151767.wav", "text": "My knee doesn't want to bend well.", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_43402738_96812087.wav", "text": "I have pain in my chest that saddens me.", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_43577102_47060848.wav", "text": "I feel so sore in my stomach area.", "duration": 4.2725}
+{"audio_filepath": "recordings/test/1249120_43620482_91315028.wav", "text": "I feel a clicking sensation in my knee each time I step.", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_43620482_95181441.wav", "text": "I feel discomfort throughout the body in general", "duration": 4.437375}
+{"audio_filepath": "recordings/test/1249120_43719934_102142986.wav", "text": "There is so much pain when I move my arm.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_43719934_40864336.wav", "text": "when i extend my leg there is pain in knee joint", "duration": 4.352}
+{"audio_filepath": "recordings/test/1249120_43719934_50536674.wav", "text": "I have this strange rash on my arm.", "duration": 5.376}
+{"audio_filepath": "recordings/test/1249120_43755034_21856025.wav", "text": "my hair isn't well", "duration": 2.389375}
+{"audio_filepath": "recordings/test/1249120_43755034_67185695.wav", "text": "itch at front and center of scalp", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_43758322_22806981.wav", "text": "I feel pain when parting loved ones", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_43825820_44998707.wav", "text": "I can't stand up, I feel my brain is moving inside my skull.", "duration": 4.6506875}
+{"audio_filepath": "recordings/test/1249120_43825820_46159261.wav", "text": "I feel lightheaded", "duration": 1.664}
+{"audio_filepath": "recordings/test/1249120_43825820_77029615.wav", "text": "I get breakouts on my chest with red patches that get more intense when i get hot.", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_43898158_85613452.wav", "text": "My neck has been sore since the accident.", "duration": 2.4746875}
+{"audio_filepath": "recordings/test/1249120_43918153_17680451.wav", "text": "I was kicked in the head playing soccer last night.", "duration": 4.693375}
+{"audio_filepath": "recordings/test/1249120_43918153_69032606.wav", "text": "The pain in my ear is unbearable.", "duration": 4.608}
+{"audio_filepath": "recordings/test/1249120_43918153_89873042.wav", "text": "I feel congestion in my chest", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_43918153_93094874.wav", "text": "I walk every day but now I get short of breath after going only a short way.", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_44093303_14753603.wav", "text": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.", "duration": 7.4304375}
+{"audio_filepath": "recordings/test/1249120_44093303_72445253.wav", "text": "i can't rotate my neck", "duration": 3.622375}
+{"audio_filepath": "recordings/test/1249120_44093303_93746287.wav", "text": "My kneecap feels like it is grating bone on bone when I walk.", "duration": 4.179625}
+{"audio_filepath": "recordings/test/1249120_44093933_100024105.wav", "text": "I feel a strange and powerful pain inside my rib cage", "duration": 5.376}
+{"audio_filepath": "recordings/test/1249120_44093933_25087031.wav", "text": "It itches inside my ears.", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_44111844_12306781.wav", "text": "There are lots of hairs on my pillow in the morning.", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_44111844_75174616.wav", "text": "What's the symptoms of appendicitis?", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_44111844_77046028.wav", "text": "After eating  I have burning sensation inside of me.", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_44111844_82259967.wav", "text": "is my cut infected or just healing?", "duration": 2.7306875}
+{"audio_filepath": "recordings/test/1249120_44140394_46121793.wav", "text": "I get tired too fast, I can barely put on my clothes in the morning.", "duration": 4.551125}
+{"audio_filepath": "recordings/test/1249120_44140394_67410726.wav", "text": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.", "duration": 6.315875}
+{"audio_filepath": "recordings/train/1249120_44142156_71498583.wav", "text": "It itches inside my ears.", "duration": 2.901375}
+{"audio_filepath": "recordings/train/1249120_44142156_72215245.wav", "text": "In the morning my respiration is loud.", "duration": 3.157375}
+{"audio_filepath": "recordings/train/1249120_44142156_87050205.wav", "text": "Mr hair is falling out just by combing it.", "duration": 4.181375}
+{"audio_filepath": "recordings/train/1249120_44194084_44797818.wav", "text": "I have cloudy eyes", "duration": 3.84}
+{"audio_filepath": "recordings/train/1249120_44220382_34886445.wav", "text": "I feel pain in my head with a vertigo", "duration": 2.6006875}
+{"audio_filepath": "recordings/train/1249120_44246595_35641157.wav", "text": "I have a mental suffering", "duration": 2.322}
+{"audio_filepath": "recordings/validate/1249120_44246595_95208403.wav", "text": "I can't stand with this horrible feeling in my stomach", "duration": 3.4365625}
+{"audio_filepath": "recordings/validate/1249120_44273314_17246181.wav", "text": "My throught is so sore.", "duration": 2.56}
+{"audio_filepath": "recordings/validate/1249120_44273314_32293213.wav", "text": "I feel like something is squeezing my lungs.", "duration": 2.9866875}
+{"audio_filepath": "recordings/validate/1249120_44273314_77840631.wav", "text": "I wish this excruciating feeling of loss could go away.", "duration": 4.352}
+{"audio_filepath": "recordings/validate/1249120_44323331_30817447.wav", "text": "red flushes accompanied with itchy", "duration": 8.0805625}
+{"audio_filepath": "recordings/test/1249120_15965551_42589900.wav", "text": "i'm disappointed", "duration": 2.197375}
+{"audio_filepath": "recordings/test/1249120_18172663_26044172.wav", "text": "I feel like my heart is on fire.", "duration": 2.645375}
+{"audio_filepath": "recordings/test/1249120_1853182_18541998.wav", "text": "glass broken and wound my leg badly the wound is so wide", "duration": 4.644}
+{"audio_filepath": "recordings/test/1249120_1853182_27132703.wav", "text": "i feel dizzy after severe diarrhea", "duration": 3.901}
+{"audio_filepath": "recordings/test/1249120_18985376_52521065.wav", "text": "I have a cut that has become red and oozes puss.", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_19425875_39686693.wav", "text": "I have a neck pain when I sit in-front of my laptop.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_19425875_63921888.wav", "text": "I get a knee pain when I walk a lot", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_19425875_97135079.wav", "text": "I have a hard muscle pain since i went to the gym", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_20518958_50289136.wav", "text": "My body feels weak after my first day in the gym, why?", "duration": 4.736875}
+{"audio_filepath": "recordings/test/1249120_20518958_61665484.wav", "text": "There is an injured person", "duration": 3.3436875}
+{"audio_filepath": "recordings/test/1249120_2171654_12812436.wav", "text": "I get a knee pain when I walk a lot", "duration": 2.6006875}
+{"audio_filepath": "recordings/test/1249120_2171654_29859521.wav", "text": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.", "duration": 6.130125}
+{"audio_filepath": "recordings/test/1249120_2171654_56923849.wav", "text": "My neck is annoying me I can't sleep bacause of it", "duration": 4.45825}
+{"audio_filepath": "recordings/test/1249120_2171654_72702596.wav", "text": "My calves feel like they are tight as knots and are throbbing", "duration": 4.179625}
+{"audio_filepath": "recordings/test/1249120_22345789_71775698.wav", "text": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.", "duration": 8.2663125}
+{"audio_filepath": "recordings/test/1249120_22423108_50218053.wav", "text": "My muscles in my lower back are aching.", "duration": 3.925375}
+{"audio_filepath": "recordings/test/1249120_27392644_51466522.wav", "text": "I can't stand with this horrible feeling in my shoulder", "duration": 3.8186875}
+{"audio_filepath": "recordings/test/1249120_27392644_84663890.wav", "text": "I feel dizzy whenever I stand up.", "duration": 3.9466875}
+{"audio_filepath": "recordings/test/1249120_28006404_10670111.wav", "text": "i have a pain in my elbow joint", "duration": 2.4149375}
+{"audio_filepath": "recordings/test/1249120_28006404_50849556.wav", "text": "I feel a pain on the left side of my chest, where my heart is", "duration": 4.365375}
+{"audio_filepath": "recordings/test/1249120_28006404_99580586.wav", "text": "I'm not good i'm feeling so cold", "duration": 2.6935625}
+{"audio_filepath": "recordings/test/1249120_29289135_87689275.wav", "text": "i was playing basketball yesterday, i have sprained ankle", "duration": 5.12}
+{"audio_filepath": "recordings/test/1249120_29713479_60004573.wav", "text": "My muscles feel tired", "duration": 4.9226875}
+{"audio_filepath": "recordings/test/1249120_30766630_102035719.wav", "text": "The severe pain in the stomach I feel", "duration": 3.3436875}
+{"audio_filepath": "recordings/test/1249120_30766630_20263908.wav", "text": "Surgical wound infections", "duration": 2.6006875}
+{"audio_filepath": "recordings/test/1249120_30766630_36392782.wav", "text": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.", "duration": 6.130125}
+{"audio_filepath": "recordings/test/1249120_30937687_36280199.wav", "text": "I wish this excruciating feeling of loss could go away.", "duration": 7.9876875}
+{"audio_filepath": "recordings/test/1249120_33905644_28997113.wav", "text": "I have a rash and it itches very bad.", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_33905644_38432444.wav", "text": "I have some terrible problems when i'm breathing during the night.", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_33905644_81294065.wav", "text": "I've been over my cold for weeks but still cough every day.", "duration": 8.8746875}
+{"audio_filepath": "recordings/test/1249120_34128682_34236862.wav", "text": "I have general discomfort in my torso.", "duration": 3.4986875}
+{"audio_filepath": "recordings/test/1249120_34824899_60393272.wav", "text": "Chronic disease of hair follicles and sebaceous glands", "duration": 4.2725}
+{"audio_filepath": "recordings/test/1249120_35154350_25451708.wav", "text": "I feel lightheaded when I stand up", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_35154350_95935409.wav", "text": "I have a painful cramp in my feet", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_35170334_81797397.wav", "text": "I have a foot ache after running 500m with my running shoes.", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_35350617_59048533.wav", "text": "my neck hurts me and i can't look down or up", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_35408915_81012985.wav", "text": "I have an internal pain I cannot describe", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_35448024_31763813.wav", "text": "my ankle is hurting me", "duration": 2.4149375}
+{"audio_filepath": "recordings/test/1249120_36214391_59611575.wav", "text": "i'm injured i can't play sports", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_36505751_101906803.wav", "text": "When I walk up a flight of stairs, my right knee hurts.", "duration": 4.608}
+{"audio_filepath": "recordings/test/1249120_36505751_44414148.wav", "text": "When I wake up in the morning I feel a soreness in my body", "duration": 4.608}
+{"audio_filepath": "recordings/test/1249120_36929821_44828827.wav", "text": "I feel a pain in my neck", "duration": 2.645375}
+{"audio_filepath": "recordings/test/1249120_38042052_20765820.wav", "text": "I feel like my heart is on fire.", "duration": 3.84}
+{"audio_filepath": "recordings/test/1249120_38202325_17495403.wav", "text": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!", "duration": 8.021375}
+{"audio_filepath": "recordings/test/1249120_39142299_63553776.wav", "text": "I feel like I just can't cope anymore, I feel overwhelmed and like I just can't get a break.", "duration": 11.2385}
+{"audio_filepath": "recordings/test/1249120_39154234_27691303.wav", "text": "My heart is beating fast and it scares me.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_39154234_35585696.wav", "text": "I cut myself and I'm bleeding.", "duration": 2.816}
+{"audio_filepath": "recordings/test/1249120_39154234_92913190.wav", "text": "I feel a bone-on-bone pain in my knees when I climb stairs.", "duration": 7.936}
+{"audio_filepath": "recordings/test/1249120_39438102_106010022.wav", "text": "i am feeling so dizzy, body is so fragile.", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_39438102_74651627.wav", "text": "My arm hurts when I stretch", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_40401830_19054036.wav", "text": "There feels like a swollen knot at my shoulderblade with pain shooting from that", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_40401830_68411912.wav", "text": "i was travelling by ship and i feel dizzy.", "duration": 3.072}
+{"audio_filepath": "recordings/test/1249120_40401830_76496788.wav", "text": "My chest acne breaks out and never clears up.", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_40419625_101061145.wav", "text": "When I stand up too quickly I start to feel dizzy and light-headed", "duration": 6.03725}
+{"audio_filepath": "recordings/test/1249120_40419625_62286277.wav", "text": "When I bend over I get a shooting pain down my back", "duration": 4.365375}
+{"audio_filepath": "recordings/test/1249120_41203338_79535222.wav", "text": "itch at front and center of scalp", "duration": 4.2666875}
+{"audio_filepath": "recordings/test/1249120_41203338_90290810.wav", "text": "I break out on my face very frequently", "duration": 4.644}
+{"audio_filepath": "recordings/test/1249120_41336418_28420679.wav", "text": "There is a constant tickle in my throat", "duration": 2.304}
+{"audio_filepath": "recordings/test/1249120_41336418_88970239.wav", "text": "I feel fluid trying to come up when I cough.", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_41841195_49849711.wav", "text": "My back hurts me and i can't bend it or walk", "duration": 2.901375}
+{"audio_filepath": "recordings/test/1249120_41841195_56754492.wav", "text": "I have a blurry vision after my head was hit yesterday.", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_41956733_78774475.wav", "text": "When I walk up a flight of stairs, my right knee hurts.", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_43172391_86468172.wav", "text": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.", "duration": 9.813375}
+{"audio_filepath": "recordings/test/1249120_43316708_19075003.wav", "text": "I'm very worried that I'll go bald soon. Am I very sick?", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_43350908_11113567.wav", "text": "It's hard to see things", "duration": 2.048}
+{"audio_filepath": "recordings/test/1249120_43402738_26313855.wav", "text": "My ear is ringing.", "duration": 2.2186875}
+{"audio_filepath": "recordings/test/1249120_43402738_62521469.wav", "text": "I was very active in sports but now my body is feeling pain.", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_43402738_63869799.wav", "text": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.", "duration": 11.264}
+{"audio_filepath": "recordings/test/1249120_43402738_97094225.wav", "text": "I have the impression of having no strength in my body", "duration": 4.437375}
+{"audio_filepath": "recordings/test/1249120_43577102_12065180.wav", "text": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.", "duration": 8.452125}
+{"audio_filepath": "recordings/test/1249120_43577102_35169414.wav", "text": "My skin is itchy and inflamed", "duration": 3.4365625}
+{"audio_filepath": "recordings/test/1249120_43577102_98626155.wav", "text": "I'm in need for a treatment for my hair fall", "duration": 4.365375}
+{"audio_filepath": "recordings/test/1249120_43612961_50483259.wav", "text": "i was injured during football match, i was diagnosed with Cruciate ligament", "duration": 6.130125}
+{"audio_filepath": "recordings/test/1249120_43612961_64363390.wav", "text": "I can't stand with this horrible feeling in my shoulder", "duration": 4.45825}
+{"audio_filepath": "recordings/test/1249120_43620482_46995790.wav", "text": "It feels like I can't take a deep breath", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_43620482_90549549.wav", "text": "My head gets dizzy when I try to get up.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_43665783_76916477.wav", "text": "My joints ache whenever it is cold", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_43665783_96408087.wav", "text": "I feel a bone-on-bone pain in my knees when I climb stairs.", "duration": 5.8026875}
+{"audio_filepath": "recordings/test/1249120_43698316_58649901.wav", "text": "I have the impression of having no strength in my body", "duration": 4.7786875}
+{"audio_filepath": "recordings/test/1249120_43719934_49681718.wav", "text": "My muscles in my lower back are aching.", "duration": 3.669375}
+{"audio_filepath": "recordings/test/1249120_43758322_69557343.wav", "text": "I need a kind of cream wich make my muscles more relaxed", "duration": 5.461375}
+{"audio_filepath": "recordings/test/1249120_43788827_58500382.wav", "text": "my head hurts me badly", "duration": 2.9721875}
+{"audio_filepath": "recordings/test/1249120_43825820_39335945.wav", "text": "The knee feels like it rusted and I suddenly cannot bend it anymore.", "duration": 4.437375}
+{"audio_filepath": "recordings/test/1249120_43825820_86733021.wav", "text": "I carried a heavy bag yesterday and when I get up today I felt a great shoulder pain.", "duration": 5.6746875}
+{"audio_filepath": "recordings/test/1249120_43856216_26401421.wav", "text": "After playing tennis,  I had a powerful sensation close to my neck", "duration": 5.973375}
+{"audio_filepath": "recordings/test/1249120_43856216_75705797.wav", "text": "There are lots of hairs on my pillow in the morning.", "duration": 4.0106875}
+{"audio_filepath": "recordings/test/1249120_43883861_107563491.wav", "text": "I get terrible headaches every few months and when I get them my vision is affected.", "duration": 7.0826875}
+{"audio_filepath": "recordings/test/1249120_43898158_58611635.wav", "text": "having difficulty moving my knee", "duration": 2.048}
+{"audio_filepath": "recordings/test/1249120_43898158_58847450.wav", "text": "I feel aching on my insides.", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_43898158_75837960.wav", "text": "When I drink a lot, I get a headache", "duration": 1.9626875}
+{"audio_filepath": "recordings/test/1249120_43898158_97583894.wav", "text": "My ankle joint throbs when I put pressure on my foot.", "duration": 3.2426875}
+{"audio_filepath": "recordings/test/1249120_44091626_105576267.wav", "text": "I feel strong pain in my knee after it was hit during the football match.", "duration": 5.376}
+{"audio_filepath": "recordings/test/1249120_44091626_33819464.wav", "text": "My skin color on my back is red, I don't know why.", "duration": 4.864}
+{"audio_filepath": "recordings/test/1249120_44091626_85354887.wav", "text": "There is pain in my joints. I can not bear pain", "duration": 4.949375}
+{"audio_filepath": "recordings/test/1249120_44093303_30897263.wav", "text": "I feel pain when i think of her", "duration": 2.7864375}
+{"audio_filepath": "recordings/test/1249120_44093303_96216551.wav", "text": "I have throbing in my shoulder", "duration": 2.7864375}
+{"audio_filepath": "recordings/test/1249120_44093933_72103639.wav", "text": "I have the impression of having no strength in my body", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_44111844_62530471.wav", "text": "I get chills and aches all over.", "duration": 2.389375}
+{"audio_filepath": "recordings/test/1249120_44140394_11062231.wav", "text": "I can't stop coughing", "duration": 2.6006875}
+{"audio_filepath": "recordings/test/1249120_44140394_13406037.wav", "text": "Hearing any loud sounds makes my ear aches", "duration": 3.808125}
+{"audio_filepath": "recordings/test/1249120_44140394_59374960.wav", "text": "The knee feels like it rusted and I suddenly cannot bend it anymore.", "duration": 4.45825}
+{"audio_filepath": "recordings/test/1249120_44142156_56513645.wav", "text": "After walking I have some pain under my foot", "duration": 3.413375}
+{"audio_filepath": "recordings/train/1249120_44188922_87700489.wav", "text": "Every time I look to left I feel a sharp pain in my neck.", "duration": 3.2426875}
+{"audio_filepath": "recordings/train/1249120_44194084_64350531.wav", "text": "I feel very hard to breathe", "duration": 5.0346875}
+{"audio_filepath": "recordings/train/1249120_44220382_61938277.wav", "text": "When I played football I dislocated my shoulder", "duration": 3.0650625}
+{"audio_filepath": "recordings/train/1249120_44220382_88604885.wav", "text": "I have this strange rash on my arm.", "duration": 3.0650625}
+{"audio_filepath": "recordings/train/1249120_44246595_49630911.wav", "text": "My head hurts whenever I try to do something.", "duration": 3.5294375}
+{"audio_filepath": "recordings/validate/1249120_44246595_92310242.wav", "text": "I wake up at night feeling cold", "duration": 3.2508125}
+{"audio_filepath": "recordings/validate/1249120_44292353_40076348.wav", "text": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_6338946_108388847.wav", "text": "My neck hurts me and i can't stand with this pain", "duration": 4.181375}
+{"audio_filepath": "recordings/test/1249120_6338946_15070996.wav", "text": "I feel heart pain when I walk a lot", "duration": 3.413375}
+{"audio_filepath": "recordings/test/1249120_6338946_15167470.wav", "text": "I'm not feeling good I get infection wound", "duration": 4.693375}
+{"audio_filepath": "recordings/test/1249120_14353703_45425658.wav", "text": "I got acne when I ate chili", "duration": 2.56}
+{"audio_filepath": "recordings/test/1249120_15004831_33938813.wav", "text": "i was playing football and injuried with joint pain.", "duration": 5.0346875}
+{"audio_filepath": "recordings/test/1249120_15830408_29803997.wav", "text": "I have a pain in my stomach", "duration": 2.7306875}
+{"audio_filepath": "recordings/test/1249120_18386513_49836957.wav", "text": "I have a hair shortage", "duration": 2.5078125}
+{"audio_filepath": "recordings/test/1249120_1853182_23449156.wav", "text": "My chest break out with red pimples and whiteheads.", "duration": 3.622375}
+{"audio_filepath": "recordings/test/1249120_1853182_65648360.wav", "text": "my neck hurts me and i can't look down or up", "duration": 3.4365625}
+{"audio_filepath": "recordings/test/1249120_20518958_19869564.wav", "text": "I feel a bone-on-bone pain in my knees when I climb stairs.", "duration": 5.7585625}
+{"audio_filepath": "recordings/test/1249120_20518958_39810877.wav", "text": "Severe pain in the ear", "duration": 2.6006875}
+{"audio_filepath": "recordings/test/1249120_20518958_60800920.wav", "text": "My foot hurts and I can't turn it.  Maybe it's broken.", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_2171654_40843730.wav", "text": "The crushing sensation on my heart leaves me breathless.", "duration": 3.622375}
+{"audio_filepath": "recordings/test/1249120_2171654_89836131.wav", "text": "The area around my heart doesn't feel good.", "duration": 2.9721875}
+{"audio_filepath": "recordings/test/1249120_27392644_50730593.wav", "text": "red flushes accompanied with itchy", "duration": 2.9226875}
+{"audio_filepath": "recordings/test/1249120_29672643_76519756.wav", "text": "Hearing any loud sounds makes my ear aches", "duration": 7.058875}
+{"audio_filepath": "recordings/test/1249120_30766630_10328513.wav", "text": "I can't stand up, I feel my brain is moving inside my skull.", "duration": 5.2013125}
+{"audio_filepath": "recordings/test/1249120_33905644_81189616.wav", "text": "I have shooting pains up and down my back.", "duration": 5.12}
+{"audio_filepath": "recordings/test/1249120_35408915_25969752.wav", "text": "The pain in my ear is unbearable.", "duration": 3.072}
+{"audio_filepath": "recordings/test/1249120_35408915_33220861.wav", "text": "When I brush my hair I notice big clumps of hair coming out in the brush.", "duration": 4.5226875}
+{"audio_filepath": "recordings/test/1249120_35832653_108545408.wav", "text": "My kneecap feels like it is grating bone on bone when I walk.", "duration": 5.12}
+{"audio_filepath": "recordings/test/1249120_36505751_26411335.wav", "text": "Severe pain in the ear", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_38042052_12672080.wav", "text": "itch at front and center of scalp", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_38202325_66152395.wav", "text": "The pain feels like it's right below the skin", "duration": 2.9866875}
+{"audio_filepath": "recordings/test/1249120_38202325_69913258.wav", "text": "I had a cold the last time I travelled by plane and I still have a discomfort in my ears.", "duration": 5.973375}
+{"audio_filepath": "recordings/test/1249120_38202325_89459212.wav", "text": "He was discovered to have an open wound.", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_38548574_45658289.wav", "text": "i was playing football and injuried with joint pain.", "duration": 7.3386875}
+{"audio_filepath": "recordings/test/1249120_39438102_79505634.wav", "text": "I have a cold and it makes me cough alot", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_39438102_81695217.wav", "text": "I hate my acne.", "duration": 3.328}
+{"audio_filepath": "recordings/test/1249120_39740177_38339407.wav", "text": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.", "duration": 6.485375}
+{"audio_filepath": "recordings/test/1249120_40419625_99432391.wav", "text": "I got acne when I ate chili", "duration": 3.993875}
+{"audio_filepath": "recordings/test/1249120_41956733_63393673.wav", "text": "What's the symptoms of appendicitis?", "duration": 5.888}
+{"audio_filepath": "recordings/test/1249120_41956733_78701830.wav", "text": "When i'm doing sport I have pain under my skin", "duration": 7.3386875}
+{"audio_filepath": "recordings/test/1249120_43350908_12803571.wav", "text": "surgical wounds red, firing pus, painful and hot to the touch", "duration": 5.5466875}
+{"audio_filepath": "recordings/test/1249120_43402738_31017349.wav", "text": "I cannot get warm no matter how much I wrap up or how high I put the heating on", "duration": 7.168}
+{"audio_filepath": "recordings/test/1249120_43612961_105694817.wav", "text": "i have shoulder pain after doing any home work.", "duration": 3.808125}
+{"audio_filepath": "recordings/test/1249120_43612961_51107617.wav", "text": "My skin is itchy and inflamed", "duration": 3.1579375}
+{"audio_filepath": "recordings/test/1249120_43612961_82193576.wav", "text": "I feel dizzy whenever I stand up.", "duration": 3.71525}
+{"audio_filepath": "recordings/test/1249120_43825820_106948055.wav", "text": "I have internal pain whenever I come down with a cold.", "duration": 3.584}
+{"audio_filepath": "recordings/test/1249120_43855932_69535057.wav", "text": "i feel that is great pain in my left shoulder", "duration": 3.7546875}
+{"audio_filepath": "recordings/test/1249120_43883861_58559098.wav", "text": "My television and computer seem out of focus even though I have new glasses.", "duration": 9.472}
+{"audio_filepath": "recordings/test/1249120_43883861_95194246.wav", "text": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.", "duration": 8.96}
+{"audio_filepath": "recordings/test/1249120_43918153_43185823.wav", "text": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.", "duration": 8.192}
+{"audio_filepath": "recordings/test/1249120_44093933_56620406.wav", "text": "When I walk up a flight of stairs, my right knee hurts.", "duration": 7.3386875}
+{"audio_filepath": "recordings/test/1249120_44093933_61252263.wav", "text": "I feel really sad all the time.", "duration": 2.389375}
+{"audio_filepath": "recordings/test/1249120_44111844_29830362.wav", "text": "My shoulder hurts when I try to reach something above my head.", "duration": 4.096}
+{"audio_filepath": "recordings/test/1249120_44140394_102992524.wav", "text": "My head ache since I woke up this morning.", "duration": 3.901}
+{"audio_filepath": "recordings/test/1249120_44140394_45824439.wav", "text": "I feel pain in my neck after waking up", "duration": 3.5294375}
+{"audio_filepath": "recordings/train/1249120_44220382_62767071.wav", "text": "When I sneeze very hard I feel ear ache", "duration": 3.71525}
+{"audio_filepath": "recordings/train/1249120_44220382_72693363.wav", "text": "Anytime I play tennis I feel a shoulder pain", "duration": 3.1579375}
+{"audio_filepath": "recordings/test/1249120_6338946_62766927.wav", "text": "I cough a lot when I smell perfume, what is wrong with my lungs?", "duration": 5.632}
+{"audio_filepath": "recordings/test/1249120_6338946_88168612.wav", "text": "I used alot of pain killer to get better but i still feel the same back pain", "duration": 6.144}
+{"audio_filepath": "recordings/test/1249120_18172663_84268084.wav", "text": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me", "duration": 6.4}
+{"audio_filepath": "recordings/test/1249120_28006404_53350096.wav", "text": "There is so much pain when I move my arm.", "duration": 2.8793125}
+{"audio_filepath": "recordings/test/1249120_39438102_49337776.wav", "text": "Laceration, rupture or opening in the skin", "duration": 5.2906875}
+{"audio_filepath": "recordings/test/1249120_42210938_71644825.wav", "text": "I've noticed my hair falling out a lot lately.", "duration": 3.157375}
+{"audio_filepath": "recordings/test/1249120_43402738_62840502.wav", "text": "My stomach feels full and upset  and bloating after big meals.", "duration": 6.997375}
+{"audio_filepath": "recordings/test/1249120_43856216_93777581.wav", "text": "I feel really sad all the time.", "duration": 4.181375}
+{"audio_filepath": "recordings/train/1249120_44246595_73273010.wav", "text": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!", "duration": 8.452125}
+{"audio_filepath": "recordings/test/1249120_15004831_71037307.wav", "text": "i am having problems seeing things feel like a cloud on my eyes everything is blurry", "duration": 6.3146875}
+{"audio_filepath": "recordings/test/1249120_15004831_95054458.wav", "text": "The pain in my ear is unbearable.", "duration": 2.4746875}
+{"audio_filepath": "recordings/test/1249120_15830408_23699319.wav", "text": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.", "duration": 9.301375}
+{"audio_filepath": "recordings/test/1249120_15830408_80692501.wav", "text": "I feel weak all over.", "duration": 2.2186875}
+{"audio_filepath": "recordings/test/1249120_15965551_53555531.wav", "text": "My chest acne breaks out and never clears up.", "duration": 4.352}
