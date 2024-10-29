@@ -72,7 +72,7 @@ Medical-Speech-Transcription/
 ├── train_manifest.json        # Training manifest for NeMo
 ├── training_model.ipynb       # Model training and evaluation notebook
 ├── val_manifest.json          # Validation manifest for NeMo
-└── train_model.py             # (Optional) Model training script alternative to the notebook
+
 ```
 
 ## Setup and Installation
